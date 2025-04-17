@@ -1,2 +1,3 @@
 accuracy = number of correct predictions/ total number of predictions
 
+good practice: use numerical labels instead of strings 
