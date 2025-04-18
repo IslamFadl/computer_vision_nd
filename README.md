@@ -1,7 +1,7 @@
 # Computer Vision Nanodegree Projects
 A repository of notebooks and solutions of exercises from the Udacity Computer Vision Nano Degree.
 
-This repository contains projects completed as part of the **Computer Vision Nanodegree** program, aimed at mastering advanced concepts in computer vision, image processing, deep learning, and AI.
+This repository contains the projects completed as part of the **Computer Vision Nanodegree** program, aimed at mastering advanced concepts in computer vision, image processing, deep learning, and AI.
 
 ## Overview
 
